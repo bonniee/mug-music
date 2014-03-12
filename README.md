@@ -14,5 +14,5 @@ Code adapted from:
 - Original Touché paper: http://www.disneyresearch.com/wp-content/uploads/touchechi2012.pdf
 - ChucK is a project from our school, Princeton University
 
-Sound files are from Mike Koenig, liscensed under Creative Commons 3.0. We adapted them here.
+Sound files are from [Mike Koenig](http://koenigmediallc.com/mike-koenig-nc.php), liscensed under Creative Commons 3.0. We adapted them here.
 
